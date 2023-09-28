@@ -1,11 +1,3 @@
-let yourArray = ["one_string", 100, true, false, 
-				 {
-					 a:"a",
-					 age:10
-				 },
-				 {
-					 c:"c"
-				 }
-				]
+let yourArray = ['one', 2, 'three', true, false, undefined, null];
 
 console.log(yourArray.length)
